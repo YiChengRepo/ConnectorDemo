@@ -1,0 +1,1 @@
+java -jar wiremock-standalone-2.25.0.jar --verbose --port 8888 
